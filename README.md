@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Fake API" src="preview/preview2.png" width="100%">
+  <img alt="Fake API" src="preview/Preview.png" width="100%">
 </p>
 
 ## 💻 Project
