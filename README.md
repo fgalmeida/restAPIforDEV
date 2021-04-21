@@ -1,21 +1,21 @@
-## 💻 Projeto
+## 💻 Project
 
 API made for application testing // Fake API
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn start`
+- Clone the repository
+- Install the dependencies with `yarn`
+- Start the server with `yarn start`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+You can now access [`localhost:3000`](http://localhost:3000) of your browser.
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
 
 ---
 
-Feito com 💙 by Felipe Almeida
+Made with 💙 by Felipe Almeida
 
 
