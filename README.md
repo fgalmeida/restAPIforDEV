@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Happy" src="preview/P305JQ1.png" height="1920x" width="1080px>
+</p>
+
 ## 💻 Project
 
 API made for application testing // Fake API
