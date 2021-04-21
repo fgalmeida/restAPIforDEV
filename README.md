@@ -6,9 +6,9 @@ API made for application testing // Fake API
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie o servidor com `yarn server`
+- Inicie o servidor com `yarn start`
 
-Agora você pode acessar [`localhost:3333`](http://localhost:3333) do seu navegador.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📄 Licença
 
