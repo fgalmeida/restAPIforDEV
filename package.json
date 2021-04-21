@@ -11,10 +11,13 @@
     "url": "git+https://github.com/fgalmeida/restAPIforDEV.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Felipe Almeida",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fgalmeida/restAPIforDEV/issues"
   },
-  "homepage": "https://github.com/fgalmeida/restAPIforDEV#readme"
+  "homepage": "https://github.com/fgalmeida/restAPIforDEV#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
