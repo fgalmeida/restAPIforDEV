@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Happy" src="preview/P305JQ1.png" height="1920x" width="1080px>
+  <img alt="Happy" src="preview/P305JQ1.png" width="100%">
 </p>
 
 ## 💻 Project
